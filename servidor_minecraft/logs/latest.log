@@ -649,3 +649,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 15:49:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Not Today, Thank You]
 [07Jun2025 15:49:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has reached the goal [Here They Come]
 [07Jun2025 16:07:40.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Getting an Upgrade]
+[07Jun2025 16:18:07.329] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18923, l='ServerLevel[Patataworld]', x=86.50, y=10.00, z=-137.50]
+[07Jun2025 16:18:07.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18924, l='ServerLevel[Patataworld]', x=84.50, y=10.00, z=-133.50]
+[07Jun2025 16:18:14.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18940, l='ServerLevel[Patataworld]', x=90.50, y=11.00, z=-143.50]
+[07Jun2025 16:18:14.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18941, l='ServerLevel[Patataworld]', x=89.50, y=11.00, z=-142.50]

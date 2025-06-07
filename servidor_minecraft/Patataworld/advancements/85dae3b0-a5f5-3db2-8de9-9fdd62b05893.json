@@ -1380,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 16:15:12 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/whistle": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1536,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 16:15:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:19 +0000"
@@ -1593,6 +1605,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 16:15:12 +0000"
     },
     "done": true
   },
