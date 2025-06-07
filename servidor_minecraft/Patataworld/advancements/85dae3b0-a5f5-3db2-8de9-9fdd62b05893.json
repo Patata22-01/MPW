@@ -189,6 +189,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-07 16:00:47 +0000",
       "porkchop": "2025-06-07 08:49:06 +0000",
       "mutton": "2025-06-07 14:40:03 +0000",
       "glow_berries": "2025-06-07 08:33:20 +0000"
@@ -433,6 +434,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-07 14:32:50 +0000",
       "minecraft:spider": "2025-06-07 15:28:27 +0000",
+      "minecraft:cave_spider": "2025-06-07 16:03:34 +0000",
       "minecraft:zombie": "2025-06-07 08:35:49 +0000"
     },
     "done": false
@@ -1342,6 +1344,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1354,6 +1368,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/whistle": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1363,6 +1389,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1408,9 +1440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -1420,15 +1464,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1441,6 +1515,18 @@
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -1528,9 +1614,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -1582,6 +1686,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
@@ -1591,6 +1701,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1648,6 +1764,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:19 +0000"
@@ -1696,6 +1818,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1732,6 +1860,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-07 15:17:35 +0000"
@@ -1741,6 +1875,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1780,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1789,6 +1935,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1816,15 +1968,45 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-07 15:17:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-07 15:13:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1846,9 +2028,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1867,6 +2061,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1900,6 +2106,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -1909,6 +2121,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -1954,15 +2172,33 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-07 15:28:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
@@ -1978,9 +2214,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -1990,9 +2244,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-07 15:59:45 +0000"
     },
     "done": true
   },
@@ -2002,9 +2268,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -2020,9 +2304,39 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/sausage": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-07 15:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-06-07 16:03:35 +0000"
     },
     "done": true
   },
@@ -2038,6 +2352,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:19 +0000"
@@ -2047,6 +2367,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-07 16:05:53 +0000"
     },
     "done": true
   },
