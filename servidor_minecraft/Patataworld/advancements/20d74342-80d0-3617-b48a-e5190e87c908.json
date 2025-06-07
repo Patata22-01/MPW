@@ -2531,6 +2531,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-06-07 21:35:32 +0000"
@@ -2543,9 +2549,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-07 21:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
     },
     "done": true
   },
@@ -2555,9 +2585,87 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-07 21:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-07 21:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-07 21:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-07 21:58:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
     },
     "done": true
   },
@@ -2579,6 +2687,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-07 21:58:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-07 21:14:12 +0000"
@@ -2591,15 +2711,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-07 21:14:05 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-06-07 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-07 21:58:38 +0000"
     },
     "done": true
   },
@@ -2612,6 +2822,24 @@
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2025-06-07 21:47:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-07 21:53:43 +0000"
     },
     "done": true
   },

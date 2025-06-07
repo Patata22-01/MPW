@@ -432,3 +432,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 21:21:40.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Take Aim]
 [07Jun2025 21:34:48.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Fishy Business]
 [07Jun2025 21:35:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Fishy Business]
+[07Jun2025 21:56:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was slain by Crocodile
+[07Jun2025 21:56:45.794] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved

@@ -3651,3 +3651,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 21:46:03.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [07Jun2025 21:51:03.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [07Jun2025 21:51:03.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:56:03.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 21:56:03.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:56:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was slain by Crocodile
+[07Jun2025 21:56:45.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player Patata_cupcake was created at position [x:424, y:62, z:8, dim:minecraft:overworld]
+[07Jun2025 21:56:45.794] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[07Jun2025 22:01:03.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 22:01:03.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
