@@ -443,3 +443,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 22:28:17.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/30368, l='ServerLevel[Patataworld]', x=165.23, y=62.48, z=465.70] died: Pirate went off with a bang
 [07Jun2025 22:28:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Ashes 'n Bones]
 [07Jun2025 22:31:13.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33188, l='ServerLevel[Patataworld]', x=96.52, y=71.00, z=205.95] died, message: 'Fisherman went off with a bang'
+[07Jun2025 22:59:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Ashes 'n Bones]
