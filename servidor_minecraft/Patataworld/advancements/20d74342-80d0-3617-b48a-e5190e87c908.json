@@ -2543,6 +2543,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-07 21:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-07 21:21:40 +0000"
@@ -2555,9 +2561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-07 21:47:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/super_treat": {
     "criteria": {
       "has_golden_apple": "2025-06-07 21:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-07 21:47:43 +0000"
     },
     "done": true
   },
@@ -2588,6 +2606,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-07 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-06-07 21:47:32 +0000"
     },
     "done": true
   },

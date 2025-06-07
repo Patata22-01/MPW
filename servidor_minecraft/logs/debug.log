@@ -3647,3 +3647,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 21:36:03.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [07Jun2025 21:41:03.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [07Jun2025 21:41:03.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:46:03.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 21:46:03.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:51:03.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 21:51:03.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
