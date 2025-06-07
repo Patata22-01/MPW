@@ -3337,6 +3337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-07 23:49:35 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/throw_stick": {
     "criteria": {
       "has_slime_ball": "2025-06-07 22:06:31 +0000"
