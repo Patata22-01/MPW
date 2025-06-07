@@ -633,3 +633,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 15:38:25.815] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jun2025 15:38:25.818] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jun2025 15:38:25.855] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jun2025 15:43:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was doomed to fall by Skeleton
+[07Jun2025 15:43:18.452] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[07Jun2025 15:43:20.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Not Today, Thank You]
+[07Jun2025 15:43:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Knowledge of Death]
+[07Jun2025 15:43:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has reached the goal [Strong or Careful]
+[07Jun2025 15:43:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 was shot by Skeleton
+[07Jun2025 15:43:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Your First Grave]
+[07Jun2025 15:43:26.559] [Server thread/INFO] [tombstone/]: The player Arcos2311 has successfully been saved
+[07Jun2025 15:48:05.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 was blown up by Creeper
+[07Jun2025 15:48:05.152] [Server thread/INFO] [tombstone/]: The player Arcos2311 has successfully been saved
+[07Jun2025 15:49:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has reached the goal [Chain Death]
+[07Jun2025 15:49:06.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 was shot by Skeleton
+[07Jun2025 15:49:06.888] [Server thread/INFO] [tombstone/]: The player Arcos2311 has successfully been saved
+[07Jun2025 15:49:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Not Today, Thank You]
+[07Jun2025 15:49:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has reached the goal [Here They Come]

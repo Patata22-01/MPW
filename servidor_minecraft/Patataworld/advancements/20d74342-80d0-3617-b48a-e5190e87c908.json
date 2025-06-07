@@ -423,8 +423,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-06-07 15:39:58 +0000",
       "porkchop": "2025-06-07 08:49:24 +0000",
-      "glow_berries": "2025-06-07 08:33:22 +0000"
+      "glow_berries": "2025-06-07 08:33:22 +0000",
+      "cooked_rabbit": "2025-06-07 15:47:23 +0000"
     },
     "done": false
   },
@@ -708,6 +710,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2025-06-07 15:36:35 +0000",
       "minecraft:river": "2025-06-07 08:49:36 +0000",
+      "minecraft:swamp": "2025-06-07 15:41:18 +0000",
       "minecraft:forest": "2025-06-07 15:35:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 15:38:40 +0000"
     },
@@ -716,6 +719,18 @@
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-07 15:43:20 +0000"
     },
     "done": true
   },
@@ -758,6 +773,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-07 15:18:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-06-07 15:43:31 +0000"
     },
     "done": true
   },
@@ -827,6 +848,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-06-07 15:41:19 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/whistle": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
@@ -842,6 +869,18 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-06-07 15:32:09 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -949,9 +988,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 15:43:26 +0000"
     },
     "done": true
   },
@@ -985,6 +1036,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/bach_wig": {
     "criteria": {
       "has_string": "2025-06-07 15:27:00 +0000"
@@ -1012,6 +1069,18 @@
   "xtraarrows:recipes/all_recipes": {
     "criteria": {
       "has_arrow": "2025-06-07 15:35:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1081,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-07 15:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:32 +0000"
@@ -1099,9 +1174,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 15:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1177,9 +1264,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-07 15:35:38 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1213,6 +1312,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 15:43:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
@@ -1234,6 +1339,12 @@
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1273,9 +1384,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:32 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1507,6 +1630,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 15:49:06 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/canine_tracker": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
@@ -1516,6 +1645,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-07 15:28:40 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1582,6 +1717,12 @@
   "doggytalents:recipes/decorations/locator_orb_jin": {
     "criteria": {
       "has_string": "2025-06-07 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
@@ -1687,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-07 15:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
@@ -1744,6 +1891,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-07 15:39:11 +0000"
     },
     "done": true
   },
