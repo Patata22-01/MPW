@@ -1312,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-07 15:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-06-07 15:28:25 +0000"
@@ -1555,6 +1561,12 @@
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-06-07 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 15:50:33 +0000"
     },
     "done": true
   },
@@ -1873,6 +1885,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-07 15:28:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-07 15:50:33 +0000"
     },
     "done": true
   },

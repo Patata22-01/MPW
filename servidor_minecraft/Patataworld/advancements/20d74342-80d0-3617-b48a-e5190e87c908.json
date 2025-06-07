@@ -423,6 +423,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-06-07 15:50:47 +0000",
       "beef": "2025-06-07 15:39:58 +0000",
       "porkchop": "2025-06-07 08:49:24 +0000",
       "glow_berries": "2025-06-07 08:33:22 +0000",
@@ -710,6 +711,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2025-06-07 15:36:35 +0000",
       "minecraft:river": "2025-06-07 08:49:36 +0000",
+      "minecraft:dripstone_caves": "2025-06-07 15:51:58 +0000",
       "minecraft:swamp": "2025-06-07 15:41:18 +0000",
       "minecraft:forest": "2025-06-07 15:35:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 15:38:40 +0000"
@@ -722,9 +724,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-07 15:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -749,6 +763,24 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 15:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-07 15:59:02 +0000"
     },
     "done": true
   },
@@ -902,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
@@ -988,6 +1026,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 15:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-07 15:39:11 +0000"
@@ -1006,9 +1050,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1060,15 +1116,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-06-07 15:50:11 +0000"
+    },
+    "done": true
+  },
   "xtraarrows:recipes/all_recipes": {
     "criteria": {
       "has_arrow": "2025-06-07 15:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1093,6 +1167,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
     },
     "done": true
   },
@@ -1150,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-06-07 15:47:12 +0000"
@@ -1165,6 +1251,12 @@
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1210,6 +1302,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_allium_petal_block": {
     "criteria": {
       "has_pink_allium": "2025-06-07 15:35:03 +0000"
@@ -1249,6 +1347,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-07 15:59:02 +0000"
     },
     "done": true
   },
@@ -1303,6 +1413,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-07 15:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
     },
     "done": true
   },
@@ -1378,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-07 15:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:32 +0000"
@@ -1408,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 15:57:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
@@ -1435,6 +1563,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1483,6 +1617,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
     },
     "done": true
   },
@@ -1564,9 +1704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-06-07 15:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1612,6 +1764,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:32 +0000"
@@ -1639,6 +1809,18 @@
   "doggytalents:recipes/tools/canine_tracker": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1690,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/tengu_mask": {
     "criteria": {
       "has_string": "2025-06-07 15:27:00 +0000"
@@ -1699,6 +1887,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2025-06-07 15:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1714,9 +1908,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_jin": {
     "criteria": {
       "has_string": "2025-06-07 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1747,6 +1953,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-06-07 15:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-07 15:58:11 +0000"
     },
     "done": true
   },
@@ -1798,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-06-07 15:17:55 +0000"
@@ -1822,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-07 15:35:38 +0000"
@@ -1837,6 +2061,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-07 15:53:31 +0000"
     },
     "done": true
   },
@@ -1867,6 +2103,12 @@
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-06-07 15:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-07 15:52:15 +0000"
     },
     "done": true
   },
