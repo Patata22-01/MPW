@@ -3700,3 +3700,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 23:12:42.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 left the game
 [07Jun2025 23:16:03.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [07Jun2025 23:16:03.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 23:20:09.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Crafting a New Look]
+[07Jun2025 23:21:03.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 23:21:03.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 23:26:03.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 23:26:03.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld

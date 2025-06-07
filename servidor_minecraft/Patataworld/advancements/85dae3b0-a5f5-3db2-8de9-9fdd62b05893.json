@@ -2545,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 20:27:02 +0000"
@@ -2767,6 +2773,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 22:57:12 +0000"
@@ -2881,9 +2899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-06-07 23:20:09 +0000"
     },
     "done": true
   },
@@ -2947,6 +2977,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-07 22:19:22 +0000"
@@ -2980,6 +3016,12 @@
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
     },
     "done": true
   },
@@ -3109,6 +3151,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-07 23:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-07 22:00:39 +0000"
@@ -3235,6 +3289,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-07 23:09:34 +0000"
@@ -3295,9 +3361,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-07 22:19:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
     },
     "done": true
   },
@@ -3565,6 +3643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-07 23:16:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/cattail_thatch": {
     "criteria": {
       "has_cattail_sprout": "2025-06-07 22:15:56 +0000"
@@ -3679,6 +3763,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:25 +0000"
@@ -3790,6 +3880,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-07 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-07 23:17:26 +0000"
     },
     "done": true
   },
