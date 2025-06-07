@@ -2673,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:43 +0000"
@@ -2688,6 +2694,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-07 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
     },
     "done": true
   },
@@ -2799,6 +2811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/super_treat": {
     "criteria": {
       "has_golden_apple": "2025-06-07 21:12:12 +0000"
@@ -2820,6 +2838,18 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-07 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
     },
     "done": true
   },
@@ -2856,6 +2886,12 @@
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
     },
     "done": true
   },
@@ -2949,9 +2985,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 22:55:32 +0000"
     },
     "done": true
   },
