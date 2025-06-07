@@ -2534,5 +2534,17 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/ceremonial_garb": {
+    "criteria": {
+      "has_lead": "2025-06-07 20:18:51 +0000"
+    },
+    "done": true
+  },
+  "saros_fruit_trees_mod:anfang": {
+    "criteria": {
+      "anfang": "2025-06-07 20:14:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

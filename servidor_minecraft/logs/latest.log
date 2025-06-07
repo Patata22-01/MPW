@@ -389,3 +389,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 19:19:50.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Creative Mode]
 [07Jun2025 19:32:29.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6966ms or 139 ticks behind
 [07Jun2025 20:13:49.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set the weather to clear]
+[07Jun2025 20:14:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [The beginning]
