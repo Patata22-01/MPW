@@ -905,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-06-07 15:41:19 +0000"
@@ -1005,6 +1011,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 15:35:15 +0000"
@@ -1071,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-07 15:39:11 +0000"
@@ -1086,6 +1104,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-07 16:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
     },
     "done": true
   },
@@ -1191,6 +1215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-07 16:26:13 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/golden_a_five_wagyu": {
     "criteria": {
       "has_cooked_beef": "2025-06-07 15:50:11 +0000"
@@ -1224,6 +1254,18 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 15:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-07 16:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
     },
     "done": true
   },
@@ -1281,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-07 15:35:38 +0000"
@@ -1335,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-06-07 16:05:51 +0000"
@@ -1344,6 +1398,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-07 15:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
     },
     "done": true
   },
@@ -1548,6 +1608,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
     },
     "done": true
   },
@@ -2013,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-07 16:23:33 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/treat_bag": {
     "criteria": {
       "has_leather": "2025-06-07 15:39:11 +0000"
@@ -2178,6 +2250,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-06-07 16:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-07 16:23:21 +0000"
     },
     "done": true
   },
@@ -2394,6 +2472,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 15:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-07 16:26:13 +0000"
     },
     "done": true
   },
