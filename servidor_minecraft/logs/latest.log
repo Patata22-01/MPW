@@ -444,3 +444,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 22:28:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Ashes 'n Bones]
 [07Jun2025 22:31:13.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33188, l='ServerLevel[Patataworld]', x=96.52, y=71.00, z=205.95] died, message: 'Fisherman went off with a bang'
 [07Jun2025 22:59:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Ashes 'n Bones]
+[07Jun2025 23:12:42.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcos2311 lost connection: Disconnected
+[07Jun2025 23:12:42.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 left the game

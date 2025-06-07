@@ -3127,6 +3127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_allium_petal_block": {
+    "criteria": {
+      "has_pink_allium": "2025-06-07 23:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-07 22:19:22 +0000"
@@ -3226,6 +3232,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-07 23:09:34 +0000"
     },
     "done": true
   },
@@ -3934,6 +3946,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-07 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-07 23:09:34 +0000"
     },
     "done": true
   },
