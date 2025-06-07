@@ -434,3 +434,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 21:35:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Fishy Business]
 [07Jun2025 21:56:45.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was slain by Crocodile
 [07Jun2025 21:56:45.794] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[07Jun2025 22:10:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Sweet Dreams]
+[07Jun2025 22:10:18.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Sweet Dreams]
+[07Jun2025 22:23:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Avast, ye matey!]
+[07Jun2025 22:23:28.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Avast, ye matey!]
+[07Jun2025 22:24:01.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/30371, l='ServerLevel[Patataworld]', x=89.30, y=62.71, z=514.55] died: Pirate went off with a bang
+[07Jun2025 22:24:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Mine? Mine? Mine?]
+[07Jun2025 22:28:17.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/30368, l='ServerLevel[Patataworld]', x=165.23, y=62.48, z=465.70] died: Pirate went off with a bang
+[07Jun2025 22:28:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Ashes 'n Bones]
+[07Jun2025 22:31:13.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/33188, l='ServerLevel[Patataworld]', x=96.52, y=71.00, z=205.95] died, message: 'Fisherman went off with a bang'
