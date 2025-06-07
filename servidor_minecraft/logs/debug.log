@@ -3623,3 +3623,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 21:11:03.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [07Jun2025 21:11:03.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [07Jun2025 21:14:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Ambush]
+[07Jun2025 21:16:03.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 21:16:03.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:17:32.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Adventure Mode]
+[07Jun2025 21:17:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcos2311: Set own game mode to Adventure Mode]
+[07Jun2025 21:19:37.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcos2311: Set own game mode to Survival Mode]
+[07Jun2025 21:19:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Survival Mode]
+[07Jun2025 21:20:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has reached the goal [Strong or Careful]
+[07Jun2025 21:20:48.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was slain by Bison
+[07Jun2025 21:20:48.993] [Server thread/DEBUG] [tombstone/]: A new grave of the player Patata_cupcake was created at position [x:83, y:64, z:-93, dim:minecraft:overworld]
+[07Jun2025 21:20:49.013] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[07Jun2025 21:21:03.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[07Jun2025 21:21:03.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[07Jun2025 21:21:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Ol' Betsy]
+[07Jun2025 21:21:40.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Take Aim]

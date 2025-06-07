@@ -193,7 +193,9 @@
       "cooked_beef": "2025-06-07 16:36:00 +0000",
       "porkchop": "2025-06-07 08:49:06 +0000",
       "mutton": "2025-06-07 14:40:03 +0000",
-      "glow_berries": "2025-06-07 08:33:20 +0000"
+      "golden_apple": "2025-06-07 21:20:21 +0000",
+      "glow_berries": "2025-06-07 08:33:20 +0000",
+      "cooked_salmon": "2025-06-07 21:18:01 +0000"
     },
     "done": false
   },
@@ -2002,7 +2004,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-06-07 15:35:26 +0000"
+      "apple": "2025-06-07 15:35:26 +0000",
+      "golden_apple": "2025-06-07 21:13:38 +0000"
     },
     "done": false
   },
@@ -2690,9 +2693,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 21:20:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-07 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-06-07 21:13:38 +0000"
     },
     "done": true
   },
