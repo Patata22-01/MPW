@@ -423,3 +423,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 15:09:34.026] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [07Jun2025 15:10:12.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.81.119.246:54555] logged in with entity id 7033 at (88.69999998807907, 65.0, -111.76522897321342)
 [07Jun2025 15:10:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
+[07Jun2025 15:12:06.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arcos2311[/127.238.187.4:42105] logged in with entity id 7489 at (90.47856286676053, 64.0, -111.9329745039427)
+[07Jun2025 15:12:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 joined the game
+[07Jun2025 15:17:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Acquire Hardware]
+[07Jun2025 15:17:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Isn't It Iron Pick]
+[07Jun2025 15:17:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Acquire Hardware]
+[07Jun2025 15:17:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Isn't It Iron Pick]
+[07Jun2025 15:18:57.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Monster Hunter]
+[07Jun2025 15:18:57.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A Strange Grave Dust]
