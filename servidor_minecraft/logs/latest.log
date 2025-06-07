@@ -390,3 +390,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [07Jun2025 19:32:29.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6966ms or 139 ticks behind
 [07Jun2025 20:13:49.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set the weather to clear]
 [07Jun2025 20:14:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [The beginning]
+[07Jun2025 20:53:09.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arcos2311[/127.238.187.4:50891] logged in with entity id 11397 at (92.03825913163804, 64.0, -111.52362296434346)
+[07Jun2025 20:53:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 joined the game
