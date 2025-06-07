@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "85dae3b0-a5f5-3db2-8de9-9fdd62b05893",
+    "name": "Patata_cupcake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
