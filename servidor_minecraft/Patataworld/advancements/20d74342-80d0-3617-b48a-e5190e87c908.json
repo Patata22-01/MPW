@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 08:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-07 08:24:09 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-07 08:49:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-06-07 08:30:14 +0000"
@@ -296,6 +308,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-07 08:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 08:49:15 +0000"
     },
     "done": true
   },
@@ -465,6 +483,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-06-07 08:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 08:49:15 +0000"
     },
     "done": true
   },
@@ -642,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-06-07 08:49:36 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-07 08:22:51 +0000"
@@ -656,6 +686,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-06-07 08:49:24 +0000",
       "glow_berries": "2025-06-07 08:33:22 +0000"
     },
     "done": false
