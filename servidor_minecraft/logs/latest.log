@@ -394,3 +394,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [08Jun2025 21:16:04.067] [Server thread/INFO] [tombstone/]: The player SrHarry2317 has successfully been saved
 [08Jun2025 21:16:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Knowledge of Death]
 [08Jun2025 21:16:19.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [Here They Come]
+[08Jun2025 21:17:20.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Suit Up]
+[08Jun2025 21:17:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Stone Age]
+[08Jun2025 21:18:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Getting an Upgrade]
+[08Jun2025 21:19:33.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Mine? Mine? Mine?]
+[08Jun2025 21:21:06.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Forager]
+[08Jun2025 21:23:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 was slain by Crocodile
+[08Jun2025 21:23:40.879] [Server thread/INFO] [tombstone/]: The player SrHarry2317 has successfully been saved
+[08Jun2025 21:25:07.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Knowledge raises the soul]
+[08Jun2025 21:25:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Chompy]
+[08Jun2025 21:25:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Alex's Mobs]
+[08Jun2025 21:27:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Sweet Dreams]
+[08Jun2025 21:33:26.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=316, y=65, z=11} BlockPos{x=316, y=63, z=11}
