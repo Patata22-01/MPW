@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 22:07:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-08 21:14:43 +0000"
@@ -654,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 22:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-08 21:17:47 +0000"
@@ -732,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-08 21:55:16 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/maple_fence": {
     "criteria": {
       "has_planks": "2025-06-08 21:10:31 +0000"
@@ -759,6 +777,12 @@
   "biomeswevegone:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-06-08 21:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-08 22:00:15 +0000"
     },
     "done": true
   },
@@ -1111,6 +1135,12 @@
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-08 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-08 22:12:39 +0000"
     },
     "done": true
   },
