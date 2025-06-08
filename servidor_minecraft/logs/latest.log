@@ -425,3 +425,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [08Jun2025 23:00:49.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.81.119.246:38367] logged in with entity id 27377 at (87.9341245830005, 64.0, -113.68641300194214)
 [08Jun2025 23:00:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
 [08Jun2025 23:05:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Hello, Weary Traveler ]
+[08Jun2025 23:14:44.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27983, l='ServerLevel[Patataworld]', x=125.70, y=71.00, z=200.11] died: Pirate was slain by Iron Golem
+[08Jun2025 23:15:09.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/27928, l='ServerLevel[Patataworld]', x=124.70, y=77.00, z=225.50] died, message: 'Nitwit hit the ground too hard'
+[08Jun2025 23:16:30.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27960, l='ServerLevel[Patataworld]', x=124.70, y=81.00, z=226.35] died, message: 'Fisherman burned to death'
+[08Jun2025 23:16:40.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27959, l='ServerLevel[Patataworld]', x=117.56, y=82.00, z=226.35] died, message: 'Villager burned to death'
+[08Jun2025 23:18:15.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27961, l='ServerLevel[Patataworld]', x=113.06, y=82.00, z=226.65] died, message: 'Fisherman burned to death'
+[08Jun2025 23:22:47.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27954, l='ServerLevel[Patataworld]', x=100.48, y=71.00, z=233.80] died: Pirate was slain by Iron Golem
