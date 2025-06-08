@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-08 22:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-08 21:20:16 +0000"
