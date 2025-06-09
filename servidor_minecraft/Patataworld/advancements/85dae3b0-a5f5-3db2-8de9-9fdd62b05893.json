@@ -46,6 +46,7 @@
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:14 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:51 +0000",
       "biomeswevegone:orchard": "2025-06-08 23:13:20 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-06-09 04:37:18 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 22:14:38 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:54 +0000",
@@ -194,6 +195,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-07 16:00:47 +0000",
+      "cooked_mutton": "2025-06-09 04:53:45 +0000",
       "cooked_beef": "2025-06-07 16:36:00 +0000",
       "baked_potato": "2025-06-08 00:07:37 +0000",
       "porkchop": "2025-06-07 08:49:06 +0000",
@@ -1088,6 +1090,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-09 04:28:00 +0000",
       "minecraft:birch_forest": "2025-06-07 15:37:43 +0000",
       "minecraft:windswept_hills": "2025-06-09 04:04:07 +0000",
       "minecraft:beach": "2025-06-07 22:18:45 +0000",
@@ -1097,6 +1100,7 @@
       "minecraft:forest": "2025-06-07 15:35:04 +0000",
       "minecraft:windswept_forest": "2025-06-07 22:16:07 +0000",
       "minecraft:ocean": "2025-06-07 22:21:39 +0000",
+      "minecraft:windswept_savanna": "2025-06-09 04:48:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 15:38:38 +0000"
     },
     "done": false
@@ -2003,6 +2007,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-06-09 04:19:53 +0000",
       "illager_camp": "2025-06-07 15:35:12 +0000"
     },
     "done": false
@@ -4366,6 +4371,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-09 04:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-09 04:32:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_log": "2025-06-09 04:22:42 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/conan_suit": {
     "criteria": {
       "has_wool": "2025-06-09 04:04:50 +0000"
@@ -4384,9 +4407,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 04:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-09 04:37:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 04:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-09 04:11:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-09 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-06-09 04:19:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 04:22:42 +0000"
     },
     "done": true
   },
@@ -4402,9 +4461,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-09 04:51:43 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/beastars_uniform_female": {
     "criteria": {
       "has_wool": "2025-06-09 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-09 04:51:43 +0000"
     },
     "done": true
   },
