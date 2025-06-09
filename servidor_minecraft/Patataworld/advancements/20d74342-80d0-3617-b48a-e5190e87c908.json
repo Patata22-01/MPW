@@ -45,6 +45,7 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:28 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:55 +0000",
+      "biomeswevegone:orchard": "2025-06-09 05:08:48 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 21:04:48 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:56 +0000",
@@ -715,6 +716,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-09 05:11:37 +0000",
       "minecraft:birch_forest": "2025-06-07 21:02:34 +0000",
       "minecraft:windswept_hills": "2025-06-07 15:36:35 +0000",
       "minecraft:beach": "2025-06-07 22:18:49 +0000",
@@ -1116,6 +1118,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-07 21:14:05 +0000",
       "minecraft:skeleton": "2025-06-07 15:18:57 +0000",
+      "minecraft:vindicator": "2025-06-09 05:27:38 +0000",
       "minecraft:spider": "2025-06-07 15:26:59 +0000",
       "minecraft:creeper": "2025-06-07 15:30:06 +0000",
       "minecraft:cave_spider": "2025-06-07 16:04:04 +0000",
@@ -3157,6 +3160,42 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-07 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-06-09 05:20:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-09 05:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 05:19:20 +0000"
+    },
+    "done": true
+  },
+  "ethrium:enter_friendly_outpost": {
+    "criteria": {
+      "bastion": "2025-06-09 05:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-09 05:14:23 +0000"
     },
     "done": true
   },

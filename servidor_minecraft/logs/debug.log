@@ -3614,3 +3614,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [09Jun2025 04:50:47.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [09Jun2025 04:55:47.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [09Jun2025 04:55:47.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:00:47.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:00:47.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:05:47.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:05:47.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:08:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Hello, Weary Traveler ]
+[09Jun2025 05:10:47.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:10:47.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:12:24.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27499, l='ServerLevel[Patataworld]', x=546.93, y=62.55, z=625.48] died: Pirate went off with a bang
+[09Jun2025 05:12:31.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27500, l='ServerLevel[Patataworld]', x=551.31, y=62.69, z=622.42] died: Pirate went off with a bang
+[09Jun2025 05:12:32.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27495, l='ServerLevel[Patataworld]', x=549.99, y=62.54, z=623.95] died: Pirate went off with a bang
+[09Jun2025 05:12:52.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27498, l='ServerLevel[Patataworld]', x=556.88, y=62.51, z=623.81] died: Pirate went off with a bang
+[09Jun2025 05:13:10.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27502, l='ServerLevel[Patataworld]', x=566.19, y=62.05, z=631.30] died: Pirate went up in flames
+[09Jun2025 05:13:14.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27503, l='ServerLevel[Patataworld]', x=562.15, y=62.54, z=619.18] died: Pirate was slain by Patata_cupcake
+[09Jun2025 05:13:56.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27497, l='ServerLevel[Patataworld]', x=554.44, y=62.49, z=635.16] died: Pirate was slain by Arcos2311
+[09Jun2025 05:14:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake went off with a bang
+[09Jun2025 05:14:40.830] [Server thread/DEBUG] [tombstone/]: A new grave of the player Patata_cupcake was created at position [x:556, y:62, z:632, dim:minecraft:overworld]
+[09Jun2025 05:14:40.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27496, l='ServerLevel[Patataworld]', x=555.39, y=62.56, z=632.50] died: Pirate went off with a bang
+[09Jun2025 05:14:40.838] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[09Jun2025 05:14:50.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/27501, l='ServerLevel[Patataworld]', x=559.36, y=60.55, z=630.80] died: Pirate drowned
+[09Jun2025 05:14:52.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 was impaled by Drowned
+[09Jun2025 05:14:52.141] [Server thread/DEBUG] [tombstone/]: A new grave of the player Arcos2311 was created at position [x:533, y:58, z:614, dim:minecraft:overworld]
+[09Jun2025 05:14:52.150] [Server thread/INFO] [tombstone/]: The player Arcos2311 has successfully been saved
+[09Jun2025 05:15:47.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:15:47.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:18:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was impaled by Drowned
+[09Jun2025 05:18:40.438] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[09Jun2025 05:20:47.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:20:47.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:20:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A Small Price to Pay...]
+[09Jun2025 05:23:45.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:23:45.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:23:45.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:23:45.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:23:45.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:23:45.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29296875
+[09Jun2025 05:25:47.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:25:47.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:26:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake was slain by Vindicator
+[09Jun2025 05:26:01.826] [Server thread/DEBUG] [tombstone/]: A new grave of the player Patata_cupcake was created at position [x:461, y:65, z:425, dim:minecraft:overworld]
+[09Jun2025 05:26:01.837] [Server thread/INFO] [tombstone/]: The player Patata_cupcake has successfully been saved
+[09Jun2025 05:30:47.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:30:47.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:35:47.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[09Jun2025 05:35:47.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[09Jun2025 05:37:49.947] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 20d74342-80d0-3617-b48a-e5190e87c908 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[09Jun2025 05:37:53.630] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 20d74342-80d0-3617-b48a-e5190e87c908 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=ebfb1e69-330a-4970-8bca-f5625c90681a, emoteData=null, startingAt=0, player=null}
+[09Jun2025 05:38:01.778] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: 20d74342-80d0-3617-b48a-e5190e87c908 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[09Jun2025 05:38:49.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.435736467895822
+[09Jun2025 05:38:49.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.7043398355440331
+[09Jun2025 05:38:49.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.9948756958202694
+[09Jun2025 05:38:49.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.305573850266228
+[09Jun2025 05:38:50.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.337720836134622
+[09Jun2025 05:38:50.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.5383770538763883
