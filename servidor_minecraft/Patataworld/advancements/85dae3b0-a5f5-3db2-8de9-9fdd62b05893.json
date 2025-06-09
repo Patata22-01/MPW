@@ -4125,15 +4125,63 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+  "ethrium:enter_friendly_outpost": {
     "criteria": {
-      "has_sign": "2025-06-08 23:23:02 +0000"
+      "bastion": "2025-06-08 23:05:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_sign": "2025-06-08 23:23:02 +0000"
+      "has_hay_block": "2025-06-08 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-06-08 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-06-08 23:15:40 +0000"
     },
     "done": true
   },
@@ -4143,9 +4191,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
+      "has_book": "2025-06-08 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-08 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-08 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-08 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-08 23:23:02 +0000"
     },
     "done": true
   },
@@ -4167,12 +4257,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-08 23:15:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
@@ -4191,36 +4275,6 @@
     },
     "done": true
   },
-  "hamsters:recipes/hamster_wheel": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-08 23:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/baker_hat": {
-    "criteria": {
-      "has_bread": "2025-06-08 23:15:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
@@ -4230,18 +4284,6 @@
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/hot_dog": {
-    "criteria": {
-      "has_bread": "2025-06-08 23:15:40 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/soul_reflector": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
     },
     "done": true
   },
@@ -4257,27 +4299,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-08 23:15:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "ethrium:enter_friendly_outpost": {
-    "criteria": {
-      "bastion": "2025-06-08 23:05:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-08 23:15:49 +0000"
     },
     "done": true
   },
@@ -4299,18 +4323,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-08 23:15:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-08 23:15:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
@@ -4320,12 +4332,6 @@
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/divine_retribution": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-08 23:15:37 +0000"
     },
     "done": true
   },
@@ -4341,27 +4347,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-06-08 23:33:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-08 23:06:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-06-08 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-08 23:33:01 +0000"
     },
     "done": true
   },
