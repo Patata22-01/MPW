@@ -46,9 +46,12 @@
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:28 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:55 +0000",
       "biomeswevegone:orchard": "2025-06-09 05:08:48 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-06-09 05:39:06 +0000",
+      "biomeswevegone:prairie": "2025-06-09 05:41:06 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 21:04:48 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:56 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-06-09 05:42:16 +0000",
       "biomeswevegone:bayou": "2025-06-07 21:04:52 +0000"
     },
     "done": false
@@ -723,10 +726,12 @@
       "minecraft:river": "2025-06-07 08:49:36 +0000",
       "minecraft:dripstone_caves": "2025-06-07 15:51:58 +0000",
       "minecraft:swamp": "2025-06-07 15:41:18 +0000",
+      "minecraft:cold_ocean": "2025-06-09 05:42:19 +0000",
       "minecraft:forest": "2025-06-07 15:35:06 +0000",
       "minecraft:windswept_forest": "2025-06-07 22:16:30 +0000",
       "minecraft:ocean": "2025-06-07 22:21:42 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-07 15:38:40 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-07 15:38:40 +0000",
+      "minecraft:plains": "2025-06-09 05:42:18 +0000"
     },
     "done": false
   },
@@ -3163,15 +3168,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-09 05:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-09 05:19:20 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-09 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-09 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-09 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-06-09 05:45:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
       "capsid": "2025-06-09 05:20:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-06-09 05:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-06-09 05:42:52 +0000"
     },
     "done": true
   },
@@ -3193,9 +3252,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-09 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-09 05:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-09 05:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-09 05:42:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-06-09 05:42:52 +0000"
     },
     "done": true
   },

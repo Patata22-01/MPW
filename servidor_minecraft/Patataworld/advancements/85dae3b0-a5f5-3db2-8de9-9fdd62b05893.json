@@ -47,9 +47,11 @@
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:51 +0000",
       "biomeswevegone:orchard": "2025-06-08 23:13:20 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-06-09 04:37:18 +0000",
+      "biomeswevegone:prairie": "2025-06-09 05:41:03 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 22:14:38 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:54 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-06-09 05:42:13 +0000",
       "biomeswevegone:bayou": "2025-06-07 22:15:00 +0000"
     },
     "done": false
@@ -1101,7 +1103,8 @@
       "minecraft:windswept_forest": "2025-06-07 22:16:07 +0000",
       "minecraft:ocean": "2025-06-07 22:21:39 +0000",
       "minecraft:windswept_savanna": "2025-06-09 04:48:02 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-07 15:38:38 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-07 15:38:38 +0000",
+      "minecraft:plains": "2025-06-09 05:42:14 +0000"
     },
     "done": false
   },

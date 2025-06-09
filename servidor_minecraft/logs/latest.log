@@ -472,3 +472,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [09Jun2025 05:38:49.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.305573850266228
 [09Jun2025 05:38:50.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.337720836134622
 [09Jun2025 05:38:50.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.5383770538763883
+[09Jun2025 05:40:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Mine? Mine? Mine?]
+[09Jun2025 05:41:00.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[09Jun2025 05:41:18.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[09Jun2025 05:45:52.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patata_cupcake lost connection: Timed out
+[09Jun2025 05:45:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake left the game
+[09Jun2025 05:46:32.439] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5538bd58[id=<null>,name=Patata_cupcake,properties={},legacy=false] (/127.81.119.246:50459) lost connection: Disconnected
+[09Jun2025 05:46:48.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.81.119.246:40193] logged in with entity id 43326 at (1559.312526485383, 63.0, 1343.1354749769282)
+[09Jun2025 05:46:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
+[09Jun2025 05:49:10.395] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.402] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.404] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.406] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.408] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.409] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.416] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.416] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.418] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.435] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.437] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.446] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.446] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:10.456] [Worker-Main-114/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jun2025 05:49:39.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/43163, l='ServerLevel[Patataworld]', x=1459.57, y=62.50, z=1521.23] died: Pirate went off with a bang
+[09Jun2025 05:49:45.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/43161, l='ServerLevel[Patataworld]', x=1459.79, y=62.61, z=1522.93] died: Pirate went off with a bang
+[09Jun2025 05:50:01.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42505, l='ServerLevel[Patataworld]', x=1457.71, y=62.53, z=1521.74] died: Pirate was slain by Patata_cupcake
