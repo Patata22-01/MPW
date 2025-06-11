@@ -1899,6 +1899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
@@ -1953,9 +1959,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-11 19:53:00 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
     },
     "done": true
   },
@@ -1977,9 +1995,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-11 19:53:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
     },
     "done": true
   },
@@ -1998,6 +2040,18 @@
   "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
     },
     "done": true
   },
@@ -2022,6 +2076,12 @@
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
     },
     "done": true
   },
@@ -2064,6 +2124,12 @@
   "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-11 19:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-11 20:07:51 +0000"
     },
     "done": true
   },

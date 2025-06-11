@@ -420,3 +420,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [11Jun2025 19:46:39.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=64, z=-2} BlockPos{x=110, y=63, z=1}
 [11Jun2025 19:47:11.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=64, z=58} BlockPos{x=116, y=62, z=57}
 [11Jun2025 19:47:12.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=64, z=58} BlockPos{x=112, y=62, z=59}
+[11Jun2025 19:49:35.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/4068, l='ServerLevel[Patataworld]', x=98.37, y=78.17, z=201.75] died, message: 'Toolsmith went up in flames'
+[11Jun2025 19:53:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [The Parrots and the Bats]

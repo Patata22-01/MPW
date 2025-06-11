@@ -3408,3 +3408,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [11Jun2025 19:46:39.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=64, z=-2} BlockPos{x=110, y=63, z=1}
 [11Jun2025 19:47:11.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=64, z=58} BlockPos{x=116, y=62, z=57}
 [11Jun2025 19:47:12.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=64, z=58} BlockPos{x=112, y=62, z=59}
+[11Jun2025 19:49:31.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 19:49:31.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[11Jun2025 19:49:35.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/4068, l='ServerLevel[Patataworld]', x=98.37, y=78.17, z=201.75] died, message: 'Toolsmith went up in flames'
+[11Jun2025 19:53:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [The Parrots and the Bats]
+[11Jun2025 19:54:31.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 19:54:31.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[11Jun2025 19:59:31.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 19:59:31.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[11Jun2025 20:04:31.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 20:04:31.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[11Jun2025 20:09:31.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 20:09:31.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[11Jun2025 20:14:31.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[11Jun2025 20:14:32.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
