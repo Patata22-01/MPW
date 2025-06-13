@@ -384,3 +384,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [13Jun2025 19:14:32.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrHarry2317[/127.150.147.61:52321] logged in with entity id 609 at (338.02428016820534, 63.0, 49.503264227765165)
 [13Jun2025 19:14:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 joined the game
 [13Jun2025 19:14:35.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[13Jun2025 19:24:41.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Teleported SrHarry2317 to 341.500000, 63.500000, 30.500000]
+[13Jun2025 19:28:27.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Isn't It Iron Pick]
+[13Jun2025 19:30:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Tactical Fishing]
+[13Jun2025 19:41:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Creative Mode]
+[13Jun2025 19:41:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Survival Mode]
+[13Jun2025 19:42:07.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Creative Mode]
+[13Jun2025 19:42:34.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Survival Mode]

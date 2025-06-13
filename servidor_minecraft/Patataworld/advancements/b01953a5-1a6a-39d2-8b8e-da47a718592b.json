@@ -47,6 +47,7 @@
       "biomeswevegone:forgotten_forest": "2025-06-08 21:10:15 +0000",
       "biomeswevegone:orchard": "2025-06-11 20:20:46 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-08 21:12:02 +0000",
+      "biomeswevegone:aspen_boreal": "2025-06-13 19:32:01 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-08 22:45:21 +0000",
       "biomeswevegone:bayou": "2025-06-08 22:36:24 +0000"
     },
@@ -923,6 +924,7 @@
       "minecraft:river": "2025-06-08 21:20:18 +0000",
       "minecraft:swamp": "2025-06-08 21:21:38 +0000",
       "minecraft:forest": "2025-06-08 22:42:38 +0000",
+      "minecraft:windswept_forest": "2025-06-13 19:33:10 +0000",
       "minecraft:ocean": "2025-06-11 20:28:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 21:21:27 +0000"
     },
@@ -2954,6 +2956,126 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-11 20:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2025-06-13 19:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2025-06-13 19:38:24 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-06-13 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-13 19:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-13 19:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-13 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-06-13 19:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-13 19:22:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-13 19:28:49 +0000"
     },
     "done": true
   },
