@@ -391,3 +391,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [13Jun2025 19:41:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Survival Mode]
 [13Jun2025 19:42:07.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Creative Mode]
 [13Jun2025 19:42:34.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Survival Mode]
+[13Jun2025 19:43:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Ashes 'n Bones]
+[13Jun2025 19:51:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Bewitched]
+[13Jun2025 19:52:38.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Ambush]
+[13Jun2025 20:03:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 was killed by Witch using magic
+[13Jun2025 20:03:33.969] [Server thread/INFO] [tombstone/]: The player SrHarry2317 has successfully been saved
+[13Jun2025 20:04:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Teleported SrHarry2317 to 341.500000, 63.500000, 30.500000]
+[13Jun2025 20:13:36.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrHarry2317 lost connection: Disconnected
+[13Jun2025 20:13:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 left the game
