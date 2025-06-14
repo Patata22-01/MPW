@@ -198,6 +198,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-07 16:00:47 +0000",
       "cooked_mutton": "2025-06-09 04:53:45 +0000",
+      "sweet_berries": "2025-06-14 05:18:36 +0000",
       "cooked_beef": "2025-06-07 16:36:00 +0000",
       "baked_potato": "2025-06-08 00:07:37 +0000",
       "porkchop": "2025-06-07 08:49:06 +0000",
@@ -4537,15 +4538,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/florus_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-06-14 04:47:58 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/florus_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-06-14 03:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-06-14 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-14 05:13:17 +0000"
     },
     "done": true
   },
@@ -4567,9 +4598,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-06-14 05:12:33 +0000"
+    },
+    "done": true
+  },
   "totw_modded:derelict_grass_tower": {
     "criteria": {
       "derelict_grass": "2025-06-14 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-14 05:13:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
     },
     "done": true
   },
@@ -4579,9 +4634,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_oak": "2025-06-14 03:22:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_crafting_table": {
+    "criteria": {
+      "has_florus_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/red_wool_from_rose_petal_block": {
+    "criteria": {
+      "has_rose_petal_block": "2025-06-14 05:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 05:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-14 05:13:17 +0000"
     },
     "done": true
   },
@@ -4591,9 +4694,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/florus_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/florus_planks": {
     "criteria": {
       "has_log": "2025-06-14 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rose": {
+    "criteria": {
+      "has_rose_petal_block": "2025-06-14 05:10:17 +0000"
     },
     "done": true
   },
@@ -4603,9 +4718,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2025-06-14 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-06-14 03:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:12:33 +0000"
     },
     "done": true
   },
@@ -4615,9 +4760,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/florus_door": {
+    "criteria": {
+      "has_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
   "saros_fruit_trees_mod:faul": {
     "criteria": {
       "faul": "2025-06-14 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_bookshelf": {
+    "criteria": {
+      "has_florus_planks": "2025-06-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-14 05:12:33 +0000"
     },
     "done": true
   },
@@ -4627,9 +4796,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-14 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-14 05:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-06-14 04:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-14 05:13:17 +0000"
     },
     "done": true
   },
