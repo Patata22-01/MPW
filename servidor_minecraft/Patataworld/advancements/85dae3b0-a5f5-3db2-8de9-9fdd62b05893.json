@@ -4856,6 +4856,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-14 17:20:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/ebony_wood": {
     "criteria": {
       "has_log": "2025-06-14 17:12:56 +0000"

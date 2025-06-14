@@ -407,3 +407,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 17:08:21.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
 [14Jun2025 17:09:57.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.81.119.246:51907] logged in with entity id 719 at (92.83693164220703, 65.0, -112.96773729729468)
 [14Jun2025 17:09:57.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
+[14Jun2025 17:20:45.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Best Friends Forever]
+[14Jun2025 17:22:48.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Creative Mode]
+[14Jun2025 17:24:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Survival Mode]
