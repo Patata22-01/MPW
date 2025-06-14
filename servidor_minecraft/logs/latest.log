@@ -529,3 +529,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 04:00:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A Seedy Place]
 [14Jun2025 04:01:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A Seedy Place]
 [14Jun2025 04:08:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patata_cupcake> agrandemos el huerto
+[14Jun2025 05:09:36.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.4681940051374198
+[14Jun2025 05:09:36.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.6314187138724492
+[14Jun2025 05:09:36.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.837042460652853
+[14Jun2025 05:09:36.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.8383319529833386

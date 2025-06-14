@@ -3356,6 +3356,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 05:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-14 04:36:21 +0000"
@@ -3428,6 +3434,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/red_wool_from_rose_petal_block": {
+    "criteria": {
+      "has_rose_petal_block": "2025-06-14 05:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-06-14 04:38:12 +0000"
@@ -3449,6 +3461,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-14 04:36:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2025-06-14 05:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rose": {
+    "criteria": {
+      "has_rose_petal_block": "2025-06-14 05:06:23 +0000"
     },
     "done": true
   },
