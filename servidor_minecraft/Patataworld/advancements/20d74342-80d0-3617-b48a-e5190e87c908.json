@@ -3422,6 +3422,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 04:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-06-14 04:23:11 +0000"
@@ -3527,6 +3533,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-14 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-06-14 04:45:48 +0000"
     },
     "done": true
   },

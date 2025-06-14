@@ -4537,6 +4537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-14 04:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-06-14 03:16:43 +0000"
@@ -4603,6 +4609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-14 04:47:58 +0000"
+    },
+    "done": true
+  },
   "saros_fruit_trees_mod:faul": {
     "criteria": {
       "faul": "2025-06-14 03:15:49 +0000"
@@ -4612,6 +4624,18 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-06-14 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-14 04:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-14 04:47:58 +0000"
     },
     "done": true
   },
