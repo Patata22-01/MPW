@@ -492,3 +492,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 03:21:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A trip to the Countryside]
 [14Jun2025 03:22:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Safe Haven]
 [14Jun2025 03:23:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Call For Adventure]
+[14Jun2025 03:34:21.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arcos2311[/127.151.120.163:44489] logged in with entity id 6826 at (1559.867718247963, 69.5625, 1571.3168325923784)
+[14Jun2025 03:34:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 joined the game
+[14Jun2025 03:34:49.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcos2311> estas casa?
+[14Jun2025 03:34:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patata_cupcake> yendo
+[14Jun2025 03:35:02.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcos2311> me quede en el ultimo respawn
+[14Jun2025 03:37:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -2.4122964768353086,0.0,-10.079030768735493
+[14Jun2025 03:37:57.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -2.564732411598925,0.0,-10.44427565223998
+[14Jun2025 03:37:57.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -6.593432888579969,0.0,-8.012062357211562
+[14Jun2025 03:37:57.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -6.836428235884796,0.0,-8.328604259655549
+[14Jun2025 03:37:57.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -7.075298700591588,0.0,-8.64803155210393
+[14Jun2025 03:37:57.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -7.309911224646044,0.0,-8.970368623597778
+[14Jun2025 03:37:57.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -7.540195108562557,0.0,-9.295599500818298
+[14Jun2025 03:37:57.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -7.7661337545955575,0.0,-9.623675907637335
+[14Jun2025 03:37:57.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -7.987753547557304,0.0,-9.954525893344453
+[14Jun2025 03:37:57.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -8.205116978659703,0.0,-10.288059415031512
+[14Jun2025 03:37:57.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -8.418312832265656,0.0,-10.624174773623395
+[14Jun2025 03:37:57.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -8.627457522144255,0.0,-10.962759075414965
+[14Jun2025 03:37:57.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -8.832682396906193,0.0,-11.303695177888471
+[14Jun2025 03:37:57.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.034136044452339,0.0,-11.646861138568852
+[14Jun2025 03:37:57.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.2319723961391,0.0,-11.992136074338646
+[14Jun2025 03:37:57.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.42635037497223,0.0,-12.339400428031581
+[14Jun2025 03:37:57.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.617437073302995,0.0,-12.68853464746951
+[14Jun2025 03:37:57.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.805396549784405,0.0,-13.039424128423775
+[14Jun2025 03:37:57.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! -9.989750413783554,0.0,-13.39222807693534
+[14Jun2025 03:37:57.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 11.016035781425103,0.0,15.485390786242306
+[14Jun2025 03:37:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 11.016035781425103,0.0,15.485390786242306
+[14Jun2025 03:37:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 10.865707307949151,0.0,15.11952384529593
+[14Jun2025 03:37:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 10.713025738818146,0.0,14.75421960667154
+[14Jun2025 03:37:57.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 15.024554362758636,0.0,21.887730869510733
+[14Jun2025 03:37:57.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 14.871645561989908,0.0,21.52169458459082
+[14Jun2025 03:37:57.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 14.72035004230986,0.0,21.154673068599777
+[14Jun2025 03:37:57.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 14.571531257297465,0.0,20.786407619130728
+[14Jun2025 03:46:19.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Ol' Betsy]
+[14Jun2025 03:46:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Take Aim]

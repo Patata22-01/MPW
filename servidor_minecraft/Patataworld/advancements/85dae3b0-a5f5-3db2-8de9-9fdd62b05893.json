@@ -4549,6 +4549,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 03:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-14 03:21:58 +0000"
@@ -4558,6 +4564,12 @@
   "totw_modded:derelict_grass_tower": {
     "criteria": {
       "derelict_grass": "2025-06-14 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-14 03:46:19 +0000"
     },
     "done": true
   },
