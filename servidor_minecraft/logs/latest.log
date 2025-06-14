@@ -526,3 +526,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 03:37:57.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved too quickly! 14.571531257297465,0.0,20.786407619130728
 [14Jun2025 03:46:19.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Ol' Betsy]
 [14Jun2025 03:46:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Take Aim]
+[14Jun2025 04:00:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A Seedy Place]
+[14Jun2025 04:01:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A Seedy Place]
