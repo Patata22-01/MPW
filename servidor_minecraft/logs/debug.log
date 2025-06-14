@@ -4276,3 +4276,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 03:59:19.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [14Jun2025 04:00:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A Seedy Place]
 [14Jun2025 04:01:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A Seedy Place]
+[14Jun2025 04:04:19.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[14Jun2025 04:04:19.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[14Jun2025 04:08:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patata_cupcake> agrandemos el huerto
+[14Jun2025 04:09:19.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[14Jun2025 04:09:19.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld

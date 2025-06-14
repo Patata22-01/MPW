@@ -4615,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-14 04:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-06-14 03:16:42 +0000"
