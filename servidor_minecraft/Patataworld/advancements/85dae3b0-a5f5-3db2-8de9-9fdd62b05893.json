@@ -4489,25 +4489,25 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-09 05:57:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-09 05:57:24 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/lost_tentacle": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "capsid": "2025-06-09 06:00:25 +0000"
+      "has_polished_andesite": "2025-06-09 05:57:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-09 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-09 05:57:24 +0000"
     },
@@ -4525,15 +4525,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "has_polished_andesite": "2025-06-09 05:57:24 +0000"
+      "coded_trigger": "2025-06-09 05:57:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
-      "has_polished_andesite": "2025-06-09 05:57:24 +0000"
+      "capsid": "2025-06-09 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-14 03:16:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2025-06-14 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "saros_fruit_trees_mod:faul": {
+    "criteria": {
+      "faul": "2025-06-14 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-14 03:16:42 +0000"
     },
     "done": true
   },
