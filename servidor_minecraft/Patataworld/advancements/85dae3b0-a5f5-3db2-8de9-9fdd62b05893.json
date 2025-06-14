@@ -4838,6 +4838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-14 17:48:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/ebony_stairs": {
     "criteria": {
       "has_planks": "2025-06-14 17:13:01 +0000"
@@ -4871,6 +4877,12 @@
   "biomeswevegone:recipes/building_blocks/ebony_slab": {
     "criteria": {
       "has_planks": "2025-06-14 17:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-14 17:48:05 +0000"
     },
     "done": true
   },
