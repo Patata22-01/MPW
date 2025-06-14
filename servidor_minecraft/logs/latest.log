@@ -490,3 +490,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [14Jun2025 03:16:36.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.40550874101950285
 [14Jun2025 03:16:36.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.4256286142463068
 [14Jun2025 03:21:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A trip to the Countryside]
+[14Jun2025 03:22:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Safe Haven]
+[14Jun2025 03:23:37.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Call For Adventure]
