@@ -1113,6 +1113,7 @@
       "minecraft:swamp": "2025-06-07 15:41:09 +0000",
       "minecraft:cold_ocean": "2025-06-15 03:11:28 +0000",
       "minecraft:forest": "2025-06-07 15:35:04 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-15 03:43:00 +0000",
       "minecraft:windswept_forest": "2025-06-07 22:16:07 +0000",
       "minecraft:ocean": "2025-06-07 22:21:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-15 02:57:26 +0000",
@@ -5007,9 +5008,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-15 03:40:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
     "criteria": {
       "green_apple": "2025-06-15 02:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
     },
     "done": true
   },
@@ -5028,6 +5047,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-15 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
     },
     "done": true
   },
@@ -5139,6 +5164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-15 02:18:58 +0000"
@@ -5148,6 +5179,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-15 03:40:33 +0000"
     },
     "done": true
   },
@@ -5175,6 +5212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-06-15 02:16:26 +0000"
@@ -5199,6 +5242,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-15 00:39:10 +0000"
@@ -5214,6 +5275,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
     },
     "done": true
   },
