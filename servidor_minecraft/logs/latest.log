@@ -460,3 +460,122 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [15Jun2025 02:27:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Best Friends Forever]
 [15Jun2025 02:30:17.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1581, y=71, z=1198} BlockPos{x=1581, y=69, z=1197}
 [15Jun2025 02:35:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A trip to the Countryside]
+[15Jun2025 02:41:23.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3935168063414949
+[15Jun2025 02:41:23.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.4651619158785252
+[15Jun2025 02:41:23.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.5529803457843627
+[15Jun2025 02:41:23.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.2905254271163358
+[15Jun2025 02:41:23.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.6173127421081972
+[15Jun2025 02:41:23.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.7868061157982993
+[15Jun2025 02:41:23.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.0378018541975962
+[15Jun2025 02:41:24.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.2874632685868619
+[15Jun2025 02:41:24.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.535863346768565
+[15Jun2025 02:41:24.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.36133799818435364
+[15Jun2025 02:41:24.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.5249709830613938
+[15Jun2025 02:41:25.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.6830346993867806
+[15Jun2025 02:41:25.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.8324029188504483
+[15Jun2025 02:41:25.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.9823743570336774
+[15Jun2025 02:41:41.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.33452470613542573
+[15Jun2025 02:41:43.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.45846606109830645
+[15Jun2025 02:41:43.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.588244838054834
+[15Jun2025 02:41:47.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6011630013192644
+[15Jun2025 02:41:47.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.49160046807514846
+[15Jun2025 02:41:47.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.9070512408225113
+[15Jun2025 02:41:47.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3038203481921755
+[15Jun2025 02:41:47.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.7571003571713391
+[15Jun2025 02:41:47.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.0343256381659103
+[15Jun2025 02:41:47.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6134214163273555
+[15Jun2025 02:41:47.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.3230227038486646
+[15Jun2025 02:41:47.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.30690435337805866
+[15Jun2025 02:41:47.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6190422648012373
+[15Jun2025 02:41:47.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29234068205119
+[15Jun2025 02:41:47.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3003424145986173
+[15Jun2025 02:41:47.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.30936708989588624
+[15Jun2025 02:41:47.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3104453210100928
+[15Jun2025 02:41:47.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.308517108933529
+[15Jun2025 02:41:47.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3171309783658671
+[15Jun2025 02:41:47.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3112713814387007
+[15Jun2025 02:41:47.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3119308267830547
+[15Jun2025 02:41:47.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.6461748599240309
+[15Jun2025 02:41:47.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.330455863331963
+[15Jun2025 02:41:47.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.31270094731576137
+[15Jun2025 02:41:47.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6301259664380723
+[15Jun2025 02:41:47.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.33613035543203296
+[15Jun2025 02:41:47.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3418020516132856
+[15Jun2025 02:41:47.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3138395222397321
+[15Jun2025 02:41:47.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3471332247029295
+[15Jun2025 02:41:47.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.314205701477249
+[15Jun2025 02:41:48.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.702345157686068
+[15Jun2025 02:41:48.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.31466704120134636
+[15Jun2025 02:41:48.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.355247466747187
+[15Jun2025 02:41:48.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6337959051588768
+[15Jun2025 02:41:48.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3153457134258133
+[15Jun2025 02:41:48.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.7186351758280125
+[15Jun2025 02:41:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.31553616877749846
+[15Jun2025 02:41:48.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3629527019086254
+[15Jun2025 02:41:48.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3162493699094284
+[15Jun2025 02:41:48.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3636009519605068
+[15Jun2025 02:41:48.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.7294920464278221
+[15Jun2025 02:41:48.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6379472492108107
+[15Jun2025 02:41:48.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 1.0587940227248964
+[15Jun2025 02:41:48.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.31872556615417125
+[15Jun2025 02:41:48.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.2922934366793015
+[15Jun2025 02:41:48.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.32043079438130917
+[15Jun2025 02:41:48.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6478826725119688
+[15Jun2025 02:41:48.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.2626562525315421
+[15Jun2025 02:41:48.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3257062257164307
+[15Jun2025 02:41:48.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.4520377912597269
+[15Jun2025 02:41:48.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.32787361085775046
+[15Jun2025 02:41:48.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6634924026905082
+[15Jun2025 02:41:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3349013829727028
+[15Jun2025 02:41:48.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6784088750450792
+[15Jun2025 02:41:48.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.29890247402727255
+[15Jun2025 02:41:48.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3422498873035238
+[15Jun2025 02:41:48.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6926679610871815
+[15Jun2025 02:41:48.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3497140748709171
+[15Jun2025 02:41:48.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.35368614356661965
+[15Jun2025 02:41:48.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.35627088646674565
+[15Jun2025 02:41:48.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7197454503877907
+[15Jun2025 02:41:49.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3621814603711755
+[15Jun2025 02:41:49.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7314116380489395
+[15Jun2025 02:41:49.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.2545051432616674
+[15Jun2025 02:41:49.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3678065022663759
+[15Jun2025 02:41:49.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7423349501605117
+[15Jun2025 02:41:49.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Arcos2311) moved wrongly! 0.3273270380957456
+[15Jun2025 02:41:49.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.37248504290391793
+[15Jun2025 02:41:49.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.374634201646586
+[15Jun2025 02:41:49.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3767077442439586
+[15Jun2025 02:41:49.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7661625585981255
+[15Jun2025 02:45:57.845] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.846] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.852] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.856] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.866] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.877] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.892] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.892] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.968] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:45:57.970] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:46:30.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33354, l='ServerLevel[Patataworld]', x=2160.37, y=73.00, z=1044.72] died, message: 'Villager suffocated in a wall'
+[15Jun2025 02:46:40.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[15Jun2025 02:51:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Granny Smith?]
+[15Jun2025 02:51:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Johnny Appleseed]
+[15Jun2025 02:54:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A breath of fresh air]
+[15Jun2025 02:55:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A breath of fresh air]
+[15Jun2025 03:01:49.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 03:11:32.382] [Worker-Main-95/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[15Jun2025 03:12:38.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42964, l='ServerLevel[Patataworld]', x=2408.26, y=62.58, z=1458.39] died: Pirate went off with a bang
+[15Jun2025 03:12:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has completed the challenge [Free Willy]
+[15Jun2025 03:13:08.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42962, l='ServerLevel[Patataworld]', x=2398.01, y=62.53, z=1480.65] died: Pirate was slain by Arcos2311
+[15Jun2025 03:13:17.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42941, l='ServerLevel[Patataworld]', x=2401.30, y=62.71, z=1458.29] died: Pirate was shot by Patata_cupcake
+[15Jun2025 03:13:17.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Who's the Pillager Now?]
+[15Jun2025 03:13:20.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42965, l='ServerLevel[Patataworld]', x=2401.50, y=62.52, z=1456.30] died: Pirate was shot by Patata_cupcake
+[15Jun2025 03:13:29.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42942, l='ServerLevel[Patataworld]', x=2392.63, y=62.57, z=1457.79] died: Pirate was shot by Patata_cupcake
+[15Jun2025 03:13:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has reached the goal [Fortuitous Militia]
+[15Jun2025 03:13:35.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42963, l='ServerLevel[Patataworld]', x=2399.22, y=62.56, z=1457.73] died: Pirate was slain by Arcos2311
+[15Jun2025 03:13:40.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42940, l='ServerLevel[Patataworld]', x=2387.72, y=62.61, z=1453.78] died: Pirate was shot by Patata_cupcake
+[15Jun2025 03:13:50.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42961, l='ServerLevel[Patataworld]', x=2383.43, y=62.60, z=1456.66] died: Pirate was shot by Patata_cupcake
+[15Jun2025 03:14:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has completed the challenge [Free Willy]
+[15Jun2025 03:16:09.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42960, l='ServerLevel[Patataworld]', x=2427.30, y=63.05, z=1486.69] died: Pirate went off with a bang
+[15Jun2025 03:16:09.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/42938, l='ServerLevel[Patataworld]', x=2429.70, y=63.00, z=1487.33] died: Pirate went off with a bang
+[15Jun2025 03:25:20.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2246, y=29, z=1824} but found not block entity block Block{minecraft:water}[level=1] at location
+[15Jun2025 03:25:20.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2246, y=29, z=1824}

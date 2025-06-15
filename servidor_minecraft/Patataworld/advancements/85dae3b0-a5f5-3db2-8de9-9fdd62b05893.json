@@ -43,7 +43,9 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-06-15 02:56:00 +0000",
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:14 +0000",
+      "biomeswevegone:zelkova_forest": "2025-06-15 03:02:54 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:51 +0000",
       "biomeswevegone:lush_stacks": "2025-06-15 02:12:57 +0000",
       "biomeswevegone:orchard": "2025-06-08 23:13:20 +0000",
@@ -51,8 +53,11 @@
       "biomeswevegone:prairie": "2025-06-09 05:41:03 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 22:14:38 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-15 03:01:00 +0000",
+      "biomeswevegone:skyrise_vale": "2025-06-15 02:44:47 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:54 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-09 05:42:13 +0000",
+      "biomeswevegone:coniferous_forest": "2025-06-15 03:01:50 +0000",
       "biomeswevegone:bayou": "2025-06-07 22:15:00 +0000"
     },
     "done": false
@@ -1095,16 +1100,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-15 02:47:16 +0000",
+      "minecraft:taiga": "2025-06-15 02:57:46 +0000",
       "minecraft:deep_ocean": "2025-06-09 04:28:00 +0000",
+      "minecraft:frozen_river": "2025-06-15 02:58:27 +0000",
       "minecraft:birch_forest": "2025-06-07 15:37:43 +0000",
       "minecraft:windswept_hills": "2025-06-09 04:04:07 +0000",
       "minecraft:beach": "2025-06-07 22:18:45 +0000",
       "minecraft:river": "2025-06-07 15:27:20 +0000",
       "minecraft:dripstone_caves": "2025-06-07 14:51:51 +0000",
+      "minecraft:snowy_taiga": "2025-06-15 03:00:48 +0000",
       "minecraft:swamp": "2025-06-07 15:41:09 +0000",
+      "minecraft:cold_ocean": "2025-06-15 03:11:28 +0000",
       "minecraft:forest": "2025-06-07 15:35:04 +0000",
       "minecraft:windswept_forest": "2025-06-07 22:16:07 +0000",
       "minecraft:ocean": "2025-06-07 22:21:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-15 02:57:26 +0000",
       "minecraft:windswept_savanna": "2025-06-09 04:48:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 15:38:38 +0000",
       "minecraft:plains": "2025-06-09 05:42:14 +0000"
@@ -2027,9 +2038,10 @@
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "apple": "2025-06-07 15:35:26 +0000",
-      "golden_apple": "2025-06-07 21:13:38 +0000"
+      "golden_apple": "2025-06-07 21:13:38 +0000",
+      "green_apple": "2025-06-15 02:51:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -4947,6 +4959,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-15 03:14:08 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-15 02:55:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-15 02:08:46 +0000"
@@ -4971,9 +4995,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-15 02:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2025-06-15 02:51:08 +0000"
     },
     "done": true
   },
@@ -5019,9 +5055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-15 02:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-15 02:56:11 +0000"
     },
     "done": true
   },
@@ -5037,9 +5085,21 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-06-15 03:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/green_apple_pie": {
+    "criteria": {
+      "has_green_apple": "2025-06-15 02:51:08 +0000"
     },
     "done": true
   },
@@ -5058,6 +5118,24 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-06-15 00:30:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 03:05:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 03:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-06-15 03:13:17 +0000"
     },
     "done": true
   },

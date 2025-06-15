@@ -43,7 +43,9 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-06-15 02:56:07 +0000",
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:28 +0000",
+      "biomeswevegone:zelkova_forest": "2025-06-15 03:03:03 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:55 +0000",
       "biomeswevegone:lush_stacks": "2025-06-15 02:12:59 +0000",
       "biomeswevegone:orchard": "2025-06-09 05:08:48 +0000",
@@ -51,8 +53,11 @@
       "biomeswevegone:prairie": "2025-06-09 05:41:06 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-07 22:30:37 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-07 21:04:48 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-15 03:01:01 +0000",
+      "biomeswevegone:skyrise_vale": "2025-06-15 02:44:49 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-07 15:34:56 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-09 05:42:16 +0000",
+      "biomeswevegone:coniferous_forest": "2025-06-15 03:01:52 +0000",
       "biomeswevegone:bayou": "2025-06-07 21:04:52 +0000"
     },
     "done": false
@@ -435,9 +440,11 @@
       "cooked_beef": "2025-06-07 15:50:47 +0000",
       "beef": "2025-06-07 15:39:58 +0000",
       "porkchop": "2025-06-07 08:49:24 +0000",
+      "apple": "2025-06-15 03:20:14 +0000",
       "potato": "2025-06-15 01:54:36 +0000",
       "cooked_cod": "2025-06-09 04:54:16 +0000",
       "golden_apple": "2025-06-07 21:12:21 +0000",
+      "bread": "2025-06-15 03:02:40 +0000",
       "glow_berries": "2025-06-07 08:33:22 +0000",
       "cooked_rabbit": "2025-06-07 15:47:23 +0000",
       "cooked_chicken": "2025-06-15 01:37:51 +0000",
@@ -723,17 +730,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-15 02:51:40 +0000",
+      "minecraft:taiga": "2025-06-15 02:57:47 +0000",
       "minecraft:deep_ocean": "2025-06-09 05:11:37 +0000",
+      "minecraft:frozen_river": "2025-06-15 03:02:43 +0000",
       "minecraft:birch_forest": "2025-06-07 21:02:34 +0000",
       "minecraft:windswept_hills": "2025-06-07 15:36:35 +0000",
       "minecraft:beach": "2025-06-07 22:18:49 +0000",
       "minecraft:river": "2025-06-07 08:49:36 +0000",
       "minecraft:dripstone_caves": "2025-06-07 15:51:58 +0000",
+      "minecraft:snowy_taiga": "2025-06-15 03:00:51 +0000",
       "minecraft:swamp": "2025-06-07 15:41:18 +0000",
       "minecraft:cold_ocean": "2025-06-09 05:42:19 +0000",
       "minecraft:forest": "2025-06-07 15:35:06 +0000",
       "minecraft:windswept_forest": "2025-06-07 22:16:30 +0000",
       "minecraft:ocean": "2025-06-07 22:21:42 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-15 02:57:26 +0000",
       "minecraft:windswept_savanna": "2025-06-14 03:37:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 15:38:40 +0000",
       "minecraft:plains": "2025-06-09 05:42:18 +0000"
@@ -3629,6 +3641,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-15 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-15 02:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3653,6 +3677,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 03:13:35 +0000"
+    },
+    "done": true
+  },
   "hamsters:recipes/hamster_wheel": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 02:32:56 +0000"
@@ -3662,6 +3692,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-15 02:55:03 +0000"
     },
     "done": true
   },
@@ -3707,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-15 02:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3737,6 +3779,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/zelkova_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 03:06:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 03:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-15 01:50:33 +0000"
@@ -3746,6 +3800,12 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-15 02:55:03 +0000"
     },
     "done": true
   },
@@ -3764,6 +3824,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-06-15 01:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-15 02:55:03 +0000"
     },
     "done": true
   },
