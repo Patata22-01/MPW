@@ -456,3 +456,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [15Jun2025 02:13:23.924] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [15Jun2025 02:13:23.935] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [15Jun2025 02:16:26.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has completed the challenge [Eye of the Tiger]
+[15Jun2025 02:22:03.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Safe Haven]
+[15Jun2025 02:27:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Best Friends Forever]
+[15Jun2025 02:30:17.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1581, y=71, z=1198} BlockPos{x=1581, y=69, z=1197}
+[15Jun2025 02:35:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A trip to the Countryside]

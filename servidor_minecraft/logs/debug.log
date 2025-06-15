@@ -3665,3 +3665,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [15Jun2025 02:15:19.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [15Jun2025 02:15:19.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [15Jun2025 02:16:26.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has completed the challenge [Eye of the Tiger]
+[15Jun2025 02:20:19.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[15Jun2025 02:20:19.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[15Jun2025 02:22:03.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Safe Haven]
+[15Jun2025 02:25:19.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[15Jun2025 02:25:19.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[15Jun2025 02:27:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [Best Friends Forever]
+[15Jun2025 02:27:37.548] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (1765 | 27 | 1023)
+[15Jun2025 02:27:37.559] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (1765 | 27 | 1023)
+[15Jun2025 02:27:37.559] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (1770 | 22 | 1017)
+[15Jun2025 02:27:37.560] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (1770 | 22 | 1017)
+[15Jun2025 02:27:37.560] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1760 | 22 | 1022)
+[15Jun2025 02:27:37.561] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1760 | 22 | 1022)
+[15Jun2025 02:27:37.564] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (1765 | 22 | 1021)
+[15Jun2025 02:27:37.564] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (1765 | 22 | 1021)
+[15Jun2025 02:27:37.564] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1759 | 22 | 1017)
+[15Jun2025 02:27:37.565] [Worker-Main-97/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1759 | 22 | 1017)
+[15Jun2025 02:27:37.573] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (1776 | 22 | 1023)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (1776 | 22 | 1023)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1786 | 22 | 1023)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1786 | 22 | 1023)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1781 | 22 | 1022)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1781 | 22 | 1022)
+[15Jun2025 02:27:37.574] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (1787 | 22 | 1018)
+[15Jun2025 02:27:37.575] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (1787 | 22 | 1018)
+[15Jun2025 02:27:37.581] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1802 | 22 | 1023)
+[15Jun2025 02:27:37.581] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1802 | 22 | 1023)
+[15Jun2025 02:27:37.581] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1803 | 22 | 1022)
+[15Jun2025 02:27:37.581] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1803 | 22 | 1022)
+[15Jun2025 02:27:37.581] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (1787 | 22 | 1018)
+[15Jun2025 02:27:37.583] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (1787 | 22 | 1018)
+[15Jun2025 02:27:37.583] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (1796 | 13 | 1018)
+[15Jun2025 02:27:37.585] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (1796 | 13 | 1018)
+[15Jun2025 02:27:37.586] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1796 | 13 | 1018)
+[15Jun2025 02:27:37.587] [Worker-Main-44/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1796 | 13 | 1018)
+[15Jun2025 02:27:37.598] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1759 | 22 | 1017)
+[15Jun2025 02:27:37.598] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1759 | 22 | 1017)
+[15Jun2025 02:27:39.262] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1818 | 22 | 1018)
+[15Jun2025 02:27:39.263] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1818 | 22 | 1018)
+[15Jun2025 02:27:39.265] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (1825 | 22 | 1023)
+[15Jun2025 02:27:39.266] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (1825 | 22 | 1023)
+[15Jun2025 02:27:39.266] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1813 | 22 | 1017)
+[15Jun2025 02:27:39.266] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1813 | 22 | 1017)
+[15Jun2025 02:27:39.275] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1819 | 27 | 1023)
+[15Jun2025 02:27:39.275] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (1819 | 27 | 1023)
+[15Jun2025 02:27:39.275] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (1814 | 22 | 1017)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (1814 | 22 | 1017)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1818 | 22 | 1018)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1818 | 22 | 1018)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (1808 | 22 | 1023)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (1808 | 22 | 1023)
+[15Jun2025 02:27:39.277] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1813 | 22 | 1017)
+[15Jun2025 02:27:39.282] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1813 | 22 | 1017)
+[15Jun2025 02:27:39.282] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (1796 | 13 | 1018)
+[15Jun2025 02:27:39.283] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (1796 | 13 | 1018)
+[15Jun2025 02:27:39.283] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1796 | 13 | 1018)
+[15Jun2025 02:27:39.283] [Worker-Main-100/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1796 | 13 | 1018)
+[15Jun2025 02:30:17.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1581, y=71, z=1198} BlockPos{x=1581, y=69, z=1197}
+[15Jun2025 02:30:19.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[15Jun2025 02:30:19.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[15Jun2025 02:35:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 has made the advancement [A trip to the Countryside]
+[15Jun2025 02:35:19.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[15Jun2025 02:35:19.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld

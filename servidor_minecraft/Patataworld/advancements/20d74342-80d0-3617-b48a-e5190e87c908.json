@@ -3635,9 +3635,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-06-15 01:05:05 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-06-15 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
     },
     "done": true
   },
@@ -3647,15 +3671,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-06-15 02:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
     },
     "done": true
   },
@@ -3719,6 +3767,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-06-15 02:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3728,6 +3782,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-15 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 02:32:56 +0000"
     },
     "done": true
   },
