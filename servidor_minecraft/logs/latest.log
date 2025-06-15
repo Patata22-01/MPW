@@ -405,3 +405,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [15Jun2025 00:11:23.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.81.119.246:57623] logged in with entity id 717 at (90.21183568709488, 64.0, -112.51513634534702)
 [15Jun2025 00:11:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
 [15Jun2025 00:11:24.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15Jun2025 00:50:54.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Tactical Fishing]
+[15Jun2025 00:57:59.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arcos2311[/127.151.120.163:60301] logged in with entity id 7832 at (90.48466871731617, 64.0, -111.93009226316944)
+[15Jun2025 00:57:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 joined the game
