@@ -45,6 +45,7 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:28 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:55 +0000",
+      "biomeswevegone:lush_stacks": "2025-06-15 02:12:59 +0000",
       "biomeswevegone:orchard": "2025-06-09 05:08:48 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-06-09 05:39:06 +0000",
       "biomeswevegone:prairie": "2025-06-09 05:41:06 +0000",
@@ -3640,6 +3641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-15 02:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3658,6 +3665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-15 02:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3667,6 +3680,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-15 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-15 02:15:09 +0000"
     },
     "done": true
   },

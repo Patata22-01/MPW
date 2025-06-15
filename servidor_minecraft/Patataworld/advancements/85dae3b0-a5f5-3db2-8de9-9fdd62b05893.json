@@ -45,6 +45,7 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2025-06-07 08:22:14 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-07 08:32:51 +0000",
+      "biomeswevegone:lush_stacks": "2025-06-15 02:12:57 +0000",
       "biomeswevegone:orchard": "2025-06-08 23:13:20 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-06-09 04:37:18 +0000",
       "biomeswevegone:prairie": "2025-06-09 05:41:03 +0000",
@@ -4931,6 +4932,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-14 17:48:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-15 02:08:46 +0000"
     },
     "done": true
   },

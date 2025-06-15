@@ -415,3 +415,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [15Jun2025 01:36:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patata_cupcake> xd
 [15Jun2025 01:36:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcos2311> PORQUE ME DISTE POQUITAS
 [15Jun2025 01:36:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcos2311> ASI ESTA BIEN?
+[15Jun2025 02:07:48.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.31619768317662533
+[15Jun2025 02:07:49.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3585923977024379
+[15Jun2025 02:07:49.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.554088592940559
+[15Jun2025 02:07:49.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3266423479197158
+[15Jun2025 02:07:49.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.280804970318286
+[15Jun2025 02:07:49.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6280949299278973
+[15Jun2025 02:07:49.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6132749539602571
+[15Jun2025 02:07:49.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.5616498733359094
+[15Jun2025 02:08:46.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [A Strange Grave Dust]
+[15Jun2025 02:09:53.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.33619140607413556
+[15Jun2025 02:09:53.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.6747506745532519
+[15Jun2025 02:09:53.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.9260451470730686
+[15Jun2025 02:09:53.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.5226890479821122
+[15Jun2025 02:09:53.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.8774441683254963
+[15Jun2025 02:09:53.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 1.1431782656776477
+[15Jun2025 02:09:54.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.5824466528449648
+[15Jun2025 02:09:54.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.882531248098644
+[15Jun2025 02:09:54.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 1.2161632628145753
+[15Jun2025 02:09:54.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 1.5300403868341164
+[15Jun2025 02:09:54.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.45775360124855524
+[15Jun2025 02:09:54.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.27255007618953186
+[15Jun2025 02:09:54.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7052640257828529
+[15Jun2025 02:09:54.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.4543714830744534
+[15Jun2025 02:09:54.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.7052640257828529
+[15Jun2025 02:09:54.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.4549119058068243
+[15Jun2025 02:10:20.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.3051781234535156
+[15Jun2025 02:10:20.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.4074432115653508
+[15Jun2025 02:10:20.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patata_cupcake) moved wrongly! 0.5219114260387414
+[15Jun2025 02:13:23.810] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.825] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.848] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.857] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.862] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.880] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.889] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.892] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.920] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.924] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.924] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:13:23.935] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jun2025 02:16:26.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has completed the challenge [Eye of the Tiger]
