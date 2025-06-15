@@ -434,6 +434,7 @@
       "cooked_beef": "2025-06-07 15:50:47 +0000",
       "beef": "2025-06-07 15:39:58 +0000",
       "porkchop": "2025-06-07 08:49:24 +0000",
+      "potato": "2025-06-15 01:54:36 +0000",
       "cooked_cod": "2025-06-09 04:54:16 +0000",
       "golden_apple": "2025-06-07 21:12:21 +0000",
       "glow_berries": "2025-06-07 08:33:22 +0000",
@@ -3663,6 +3664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
@@ -3690,6 +3703,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-15 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:50:33 +0000"
     },
     "done": true
   },
