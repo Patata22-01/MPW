@@ -382,3 +382,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [16Jun2025 18:48:03.563] [Server thread/INFO] [Basic Weapons/]: Mod loading on server side..
 [16Jun2025 18:48:56.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrHarry2317[/127.150.147.61:43407] logged in with entity id 700 at (338.8601895866692, 63.0, 43.82281014955548)
 [16Jun2025 18:48:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 joined the game
+[16Jun2025 19:18:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Ice Bucket Challenge]
+[16Jun2025 19:20:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Not Today, Thank You]
