@@ -393,3 +393,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [16Jun2025 19:40:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [A Fast Comeback]
 [16Jun2025 19:48:09.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Teleported SrHarry2317 to 341.500000, 63.500000, 30.500000]
 [16Jun2025 19:51:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrHarry2317: Set own game mode to Creative Mode]
+[16Jun2025 19:58:01.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/15572, l='ServerLevel[Patataworld]', x=361.68, y=63.00, z=29.68] died, message: 'Fletcher was slain by SrHarry2317'
+[16Jun2025 19:58:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Neighborhood Brawl]
+[16Jun2025 20:01:18.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16110, l='ServerLevel[Patataworld]', x=361.70, y=63.00, z=33.59] died, message: 'Toolsmith was slain by SrHarry2317'
+[16Jun2025 20:01:56.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16214, l='ServerLevel[Patataworld]', x=335.49, y=63.00, z=38.50] died, message: 'Villager was slain by SrHarry2317'
+[16Jun2025 20:02:11.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16210, l='ServerLevel[Patataworld]', x=361.70, y=63.00, z=33.65] died, message: 'Toolsmith was slain by SrHarry2317'
+[16Jun2025 20:02:18.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16488, l='ServerLevel[Patataworld]', x=361.68, y=63.00, z=33.68] died, message: 'Toolsmith was slain by SrHarry2317'
+[16Jun2025 20:02:25.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16498, l='ServerLevel[Patataworld]', x=361.68, y=63.00, z=33.68] died, message: 'Toolsmith was slain by SrHarry2317'
+[16Jun2025 20:02:35.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16504, l='ServerLevel[Patataworld]', x=361.68, y=63.00, z=33.68] died, message: 'Toolsmith was slain by SrHarry2317'
+[16Jun2025 20:02:55.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/16535, l='ServerLevel[Patataworld]', x=361.70, y=63.00, z=33.50] died, message: 'Toolsmith was slain by SrHarry2317'
