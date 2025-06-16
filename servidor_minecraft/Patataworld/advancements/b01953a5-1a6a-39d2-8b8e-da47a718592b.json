@@ -464,6 +464,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-16 19:00:01 +0000",
       "minecraft:slime": "2025-06-13 19:56:55 +0000",
       "minecraft:witch": "2025-06-13 19:52:38 +0000",
       "minecraft:cave_spider": "2025-06-08 21:13:53 +0000",
