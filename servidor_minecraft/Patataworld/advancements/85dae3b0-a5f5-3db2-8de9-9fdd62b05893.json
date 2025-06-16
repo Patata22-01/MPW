@@ -4948,129 +4948,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/zelkova_sign": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-06-15 03:14:08 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/zelkova_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:regular_tower": {
-    "criteria": {
-      "regular": "2025-06-15 02:55:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/zelkova_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-06-15 02:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/zelkova_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-06-15 00:23:41 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/zelkova_bookshelf": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_zelkova_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-15 02:56:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-15 00:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2025-06-15 03:40:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
-    "criteria": {
-      "green_apple": "2025-06-15 02:51:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 00:39:10 +0000"
+      "has_log": "2025-06-15 00:23:41 +0000"
     },
     "done": true
   },
@@ -5086,117 +4972,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-15 00:30:16 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/zelkova_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 00:39:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
-    "criteria": {
-      "has_2_dye_tag": "2025-06-15 02:44:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/zelkova_fence": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-15 02:56:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-06-15 04:06:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-15 00:30:16 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/zelkova_button": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-06-15 00:39:10 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_venison": {
-    "criteria": {
-      "has_venison": "2025-06-15 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/green_apple_pie": {
-    "criteria": {
-      "has_green_apple": "2025-06-15 02:51:08 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/zelkova_crafting_table": {
-    "criteria": {
-      "has_zelkova_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
     },
     "done": true
   },
@@ -5212,57 +4996,87 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/zelkova_wood": {
+  "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
-      "has_log": "2025-06-15 03:05:27 +0000"
+      "has_needed_dye": "2025-06-15 00:39:10 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/zelkova_planks": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_log": "2025-06-15 03:05:27 +0000"
+      "has_white_dye": "2025-06-15 00:39:10 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
-      "kill_pillager": "2025-06-15 03:13:17 +0000"
+      "has_white_dye": "2025-06-15 00:39:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/misc/gray_dye": {
     "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/zelkova_slab": {
-    "criteria": {
-      "has_planks": "2025-06-15 04:04:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-15 03:40:33 +0000"
+      "has_white_dye": "2025-06-15 00:39:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-15 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:48:42 +0000"
     },
     "done": true
   },
@@ -5278,27 +5092,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
+      "has_planks": "2025-06-15 00:48:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "minecraft:husbandry/tactical_fishing": {
     "criteria": {
-      "has_log": "2025-06-15 00:23:41 +0000"
+      "salmon_bucket": "2025-06-15 00:50:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
+      "from_undead": "2025-06-15 02:08:46 +0000"
     },
     "done": true
   },
@@ -5308,21 +5116,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_planks": "2025-06-15 00:48:42 +0000"
+      "has_bricks": "2025-06-15 02:18:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
+  "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 00:39:10 +0000"
+      "has_bricks": "2025-06-15 02:18:58 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
-      "salmon_bucket": "2025-06-15 00:50:54 +0000"
+      "has_bricks": "2025-06-15 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-06-15 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-15 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-15 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-15 02:44:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2025-06-15 02:51:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/green_apple_pie": {
+    "criteria": {
+      "has_green_apple": "2025-06-15 02:51:08 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-06-15 02:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-15 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-15 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 03:05:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 03:05:27 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2025-06-15 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-06-15 03:13:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-15 03:14:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-15 03:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-15 03:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 03:40:49 +0000"
     },
     "done": true
   },
@@ -5344,15 +5278,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_needed_dye": "2025-06-15 00:39:10 +0000"
+      "has_planks": "2025-06-15 03:40:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "biomeswevegone:recipes/decorations/zelkova_sign": {
     "criteria": {
-      "has_bricks": "2025-06-15 02:18:58 +0000"
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/zelkova_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/zelkova_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_bookshelf": {
+    "criteria": {
+      "has_zelkova_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/zelkova_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/zelkova_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/zelkova_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/zelkova_crafting_table": {
+    "criteria": {
+      "has_zelkova_planks": "2025-06-15 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/zelkova_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 04:04:35 +0000"
     },
     "done": true
   },
@@ -5362,15 +5350,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_white_dye": "2025-06-15 00:39:10 +0000"
+      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_planks": "2025-06-15 03:40:49 +0000"
+      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-15 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-15 04:06:43 +0000"
     },
     "done": true
   },
