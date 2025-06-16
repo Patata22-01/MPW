@@ -384,3 +384,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [16Jun2025 18:48:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 joined the game
 [16Jun2025 19:18:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Ice Bucket Challenge]
 [16Jun2025 19:20:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Not Today, Thank You]
+[16Jun2025 19:29:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Avast, ye matey!]
+[16Jun2025 19:32:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [Fortuitous Militia]
+[16Jun2025 19:32:33.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/8569, l='ServerLevel[Patataworld]', x=581.15, y=62.62, z=719.19] died: Pirate was slain by SrHarry2317
+[16Jun2025 19:40:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 was slain by Vindicator
+[16Jun2025 19:40:15.061] [Server thread/INFO] [tombstone/]: The player SrHarry2317 has successfully been saved
+[16Jun2025 19:40:16.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [The Most Useful Key]
+[16Jun2025 19:40:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [A Fast Comeback]

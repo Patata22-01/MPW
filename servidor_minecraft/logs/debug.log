@@ -3382,3 +3382,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [16Jun2025 19:20:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Not Today, Thank You]
 [16Jun2025 19:23:03.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [16Jun2025 19:23:03.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[16Jun2025 19:28:03.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[16Jun2025 19:28:03.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[16Jun2025 19:29:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [Avast, ye matey!]
+[16Jun2025 19:32:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [Fortuitous Militia]
+[16Jun2025 19:32:33.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pirate'/8569, l='ServerLevel[Patataworld]', x=581.15, y=62.62, z=719.19] died: Pirate was slain by SrHarry2317
+[16Jun2025 19:33:03.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[16Jun2025 19:33:03.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[16Jun2025 19:35:21.690] [Worker-Main-62/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Jun2025 19:35:21.705] [Worker-Main-62/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Jun2025 19:36:39.481] [Worker-Main-66/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[16Jun2025 19:38:03.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[16Jun2025 19:38:03.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[16Jun2025 19:40:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 was slain by Vindicator
+[16Jun2025 19:40:15.046] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrHarry2317 was created at position [x:235, y:65, z:968, dim:minecraft:overworld]
+[16Jun2025 19:40:15.061] [Server thread/INFO] [tombstone/]: The player SrHarry2317 has successfully been saved
+[16Jun2025 19:40:16.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has made the advancement [The Most Useful Key]
+[16Jun2025 19:40:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrHarry2317 has reached the goal [A Fast Comeback]
+[16Jun2025 19:43:03.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[16Jun2025 19:43:03.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
