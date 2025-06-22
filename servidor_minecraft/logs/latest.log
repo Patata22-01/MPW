@@ -451,3 +451,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [22Jun2025 06:36:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake left the game
 [22Jun2025 06:36:44.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.23.173.114:59315] logged in with entity id 24205 at (103.31667634533098, 56.0, -113.72218930208271)
 [22Jun2025 06:36:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
+[22Jun2025 06:42:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Creative Mode]
+[22Jun2025 06:43:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Adventure Mode]
+[22Jun2025 06:48:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Survival Mode]
