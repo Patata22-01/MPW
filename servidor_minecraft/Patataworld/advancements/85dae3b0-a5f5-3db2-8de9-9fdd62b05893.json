@@ -212,6 +212,7 @@
       "golden_apple": "2025-06-07 21:20:21 +0000",
       "glow_berries": "2025-06-07 08:33:20 +0000",
       "cooked_chicken": "2025-06-22 04:27:27 +0000",
+      "mushroom_stew": "2025-06-22 07:09:49 +0000",
       "cooked_salmon": "2025-06-07 21:18:01 +0000"
     },
     "done": false
@@ -5521,6 +5522,18 @@
       "has_needed_dye": "2025-06-22 06:46:57 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-22 07:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:rabbit": "2025-06-22 07:03:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
