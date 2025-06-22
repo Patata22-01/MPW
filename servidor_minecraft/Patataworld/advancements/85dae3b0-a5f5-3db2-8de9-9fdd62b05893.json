@@ -5378,36 +5378,6 @@
     },
     "done": true
   },
-  "doggytalents:recipes/misc/rice_mill": {
-    "criteria": {
-      "has_paddy_rice_dtn": "2025-06-22 06:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-22 05:43:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-22 05:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-06-22 05:43:35 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/energizer_stick": {
-    "criteria": {
-      "has_sugar": "2025-06-22 04:00:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-06-22 03:59:04 +0000"
@@ -5420,9 +5390,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "doggytalents:recipes/food/energizer_stick": {
     "criteria": {
-      "has_rail": "2025-06-22 05:43:35 +0000"
+      "has_sugar": "2025-06-22 04:00:55 +0000"
     },
     "done": true
   },
@@ -5432,9 +5402,81 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-22 05:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-22 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-22 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-22 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/rice_mill": {
+    "criteria": {
+      "has_paddy_rice_dtn": "2025-06-22 06:26:29 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/rice_grains": {
     "criteria": {
       "has_dtn_rice_wheat": "2025-06-22 06:26:29 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/spotted_collar": {
+    "criteria": {
+      "has_wool_collar": "2025-06-22 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/multicoloured_collar": {
+    "criteria": {
+      "has_wool_collar": "2025-06-22 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/striped_scarf": {
+    "criteria": {
+      "has_dtn_wool_collar": "2025-06-22 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/spotted_collar_alt": {
+    "criteria": {
+      "has_wool_collar": "2025-06-22 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-22 06:38:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2025-06-22 06:39:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2025-06-22 06:39:41 +0000"
     },
     "done": true
   },

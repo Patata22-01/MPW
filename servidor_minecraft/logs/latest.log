@@ -447,3 +447,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [22Jun2025 04:36:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcos2311> puedes call? :v
 [22Jun2025 04:36:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patata_cupcake> espera
 [22Jun2025 05:18:02.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake has made the advancement [Hot Stuff]
+[22Jun2025 06:36:28.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patata_cupcake lost connection: Disconnected
+[22Jun2025 06:36:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake left the game
+[22Jun2025 06:36:44.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.23.173.114:59315] logged in with entity id 24205 at (103.31667634533098, 56.0, -113.72218930208271)
+[22Jun2025 06:36:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
