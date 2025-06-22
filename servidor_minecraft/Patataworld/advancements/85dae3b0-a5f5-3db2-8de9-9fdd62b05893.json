@@ -5523,6 +5523,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-22 07:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-22 07:12:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-22 07:03:54 +0000"
@@ -5534,6 +5546,18 @@
       "minecraft:rabbit": "2025-06-22 07:03:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-22 07:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-22 07:12:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

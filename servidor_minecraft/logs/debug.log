@@ -4054,3 +4054,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [22Jun2025 07:06:42.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
 [22Jun2025 07:11:42.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
 [22Jun2025 07:11:42.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[22Jun2025 07:13:25.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcos2311 lost connection: Disconnected
+[22Jun2025 07:13:25.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcos2311 left the game
+[22Jun2025 07:13:44.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patata_cupcake lost connection: Disconnected
+[22Jun2025 07:13:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake left the game
+[22Jun2025 07:14:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jun2025 07:14:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2025 07:14:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2025 07:14:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2025 07:14:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Patataworld]'/minecraft:overworld
+[22Jun2025 07:14:06.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Patataworld]'/minecraft:the_end
+[22Jun2025 07:14:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Patataworld]'/minecraft:the_nether
+[22Jun2025 07:14:06.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Patataworld
+[22Jun2025 07:14:06.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Patataworld
+[22Jun2025 07:14:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Patataworld): All chunks are saved
+[22Jun2025 07:14:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2025 07:14:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2025 07:14:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jun2025 07:14:06.296] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jun2025 07:14:06.299] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/MPW/servidor_minecraft/config/goblintraders-entities.toml
+[22Jun2025 07:14:06.299] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Jun2025 07:14:06.304] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Jun2025 07:14:06.304] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Jun2025 07:14:06.304] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
