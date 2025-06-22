@@ -454,3 +454,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [22Jun2025 06:42:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Creative Mode]
 [22Jun2025 06:43:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Adventure Mode]
 [22Jun2025 06:48:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Survival Mode]
+[22Jun2025 06:54:16.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patata_cupcake lost connection: Timed out
+[22Jun2025 06:54:16.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake left the game
+[22Jun2025 06:54:26.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.23.173.114:34553] logged in with entity id 26522 at (89.78579758815142, 64.5625, -100.76622498784917)
+[22Jun2025 06:54:26.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
+[22Jun2025 06:56:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Creative Mode]
+[22Jun2025 07:02:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patata_cupcake: Set own game mode to Survival Mode]
