@@ -384,3 +384,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [22Jun2025 03:41:42.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.075s)! For help, type "help"
 [22Jun2025 03:41:42.834] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [22Jun2025 03:41:42.839] [Server thread/INFO] [Basic Weapons/]: Mod loading on server side..
+[22Jun2025 03:55:18.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patata_cupcake[/127.23.173.114:45717] logged in with entity id 623 at (121.21851581525335, 63.0, -88.82646506682168)
+[22Jun2025 03:55:19.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patata_cupcake joined the game
